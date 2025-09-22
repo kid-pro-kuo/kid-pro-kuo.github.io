@@ -12,7 +12,7 @@ website:
   page-footer:
     border: true
     background: dark
-    center: 
+    center:
       - text: "<b>Download PDF</b>"
         href: /index.pdf
 format-links: false
