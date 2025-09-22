@@ -1,11 +1,11 @@
 # Sebastien Kuo
-Localization Project/Program Manager
+Localization Program Manager
 | [sebastien.kuo@gmail.com](mailto:sebastien.kuo@gmail.com)
 | [917-388-7136](tel:917-388-7136)
 | [linkedin.com/in/sebastienkuo](https://linkedin.com/in/sebastienkuo)
 
-## About me
-Data-driven and adaptable program/project manager with 12+ years experience executing and managing end-to-end localization workflows at both startups and Big Tech. Strong record of delivering value by minimizing budget spend while maintaining quality and speed-to-market expectations to deliver impactful, relevant content aimed at diverse global audiences. Excels at building consensus and navigating cross-functional teamwork in fast-paced environments; turning ambiguity into shared success and securing buy-in from key decision-makers.
+## About Me
+Data-driven and adaptable program manager with 12+ years experience executing localization strategy at both startups and Big Tech. Strong record of delivering value through smart spending with minimal impact to quality and speed-to-market expectations. Focused on impactful content and user experiences built for a diverse global audience. Values transparent and goal-oriented relationships with stakeholders in order to navigate cross-functional teamwork, build consensus and align results to organizational objectives.
 
 ## Work Experience
 
@@ -98,7 +98,10 @@ Lead coordinated linguistic QA cycles with internal reviews and external vendors
 
 ## Languages
 
-- **English**: Native
-- **Mandarin Chinese**: Fluent
-- **French**: Proficient
-- **German**: Basic
+|         | Proficiency | ILR | CEFR |
+|---------|-------------|-----|------|
+| English | Native      | 5   | —    |
+| Chinese | Fluent      | 3+  | B2   |
+| French  | Proficient  | 3   | B1   |
+| German  | Basic       | 1+  | A2   |
+
